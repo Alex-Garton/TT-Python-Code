@@ -12,14 +12,14 @@ import numpy as np
 
 ''' reading input file '''
 
-# Input file path and initializing empty lists 
+# Input file path and initializing empty lists.
 input_file_path =  r"C:\Users\zoech\Desktop\Jacks Reserach 2024\Code\Callibration Code\Jul1 Calibration two screws in L bracket positive cal factor.txt"
 output_file_path = r"C:\Users\zoech\Desktop\Jacks Reserach 2024\Code\Z-outputData2-jul15.txt"
 readings = []
 weights = []
 ratios = []
  
-# Read the data
+# Read the data.
     # Goes through input file and parses information by category. Readings 
     # (captured by the TT) are added to the empty "readings" list. Weights 
     # (manually input by user) are added to the empty "weights" list. 
