@@ -15,15 +15,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 import re
 
-''' relevant files '''
-#"C:\Users\zoech\Desktop\Jacks Reserach 2024\Code\HI Code\output change 1.txt"
-#"C:\Users\zoech\Desktop\Jacks Reserach 2024\Code\HI Code\output change 3.txt"
-# "C:\Users\zoech\Desktop\Jacks Reserach 2024\Code\HI Code\output change 4.txt"
-# r"C:\Users\zoech\Desktop\Jacks Reserach 2024\Code\HI Code\output change 6 spring.txt"
-
 ''' input file path '''
 
-input_file_path = r"C:\Users\zoech\Desktop\Jacks Reserach 2024\Code\HI Code\7-7-24 fabric 5.txt"
+input_file_path = 
 
 # Initialize lists and variables
 calibrated_ws = []
