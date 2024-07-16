@@ -16,8 +16,8 @@ import numpy as np
 ''' reading input file '''
 
 # Input file path and initializing empty lists 
-input_file_path =  r"C:\Users\zoech\Desktop\Jacks Reserach 2024\Code\Callibration Code\Jul1 Calibration two screws in L bracket positive cal factor.txt"
-output_file_path = r"C:\Users\zoech\Desktop\Jacks Reserach 2024\Code\Z-outputData2-jul16.txt"
+input_file_path =  
+output_file_path = 
 readings = []
 weights = []
 ratios = []
