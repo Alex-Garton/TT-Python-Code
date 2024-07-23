@@ -43,7 +43,7 @@ with open(input_file_path, 'r') as file:
     for line in file:
         line = line.strip()
         
-        if "Calibration Factor" in line:
+        if "calibration factor" in line:
             cf = int(re.search(int_pattern, line).group())
             print("Calibration Factor:", cf)
             
